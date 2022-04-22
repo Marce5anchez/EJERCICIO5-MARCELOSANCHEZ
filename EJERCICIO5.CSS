@@ -1,0 +1,21 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 1px;
+    background-color:  D6AFDC;
+
+
+}
+ul a{
+
+    color: white;
+    
+}
+a:hover{
+
+    background-color: blue;
+}
